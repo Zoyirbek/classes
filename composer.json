@@ -1,0 +1,19 @@
+{
+    "name": "rzpack/classes",
+    "description": "PHP Helpers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zoyirbek Rakhmonberdiev",
+            "email": "Rakhmonberdiev97@gmail.com",
+            "homepage": "https://vk.com/rakhmonberdiev_97"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RzPack\\": "./"
+        }
+    }
+}
+
+
