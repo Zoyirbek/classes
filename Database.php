@@ -14,7 +14,7 @@ final class Database
 
 	private $db_config = [
 		'host' => 'localhost',
-		'dbname' => 'rzfrms',
+		'dbname' => 'rzfrm',
 		'username' => 'root',
 		'password' => '',
 		'charset' => 'utf8mb4', // utf8mb4
